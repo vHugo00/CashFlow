@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GcvnF2AwF9aP/T5a8HLdmRM4S7X62j9hRwhJMBDC/F8=",
+  "Source": "ClashFlow.Api",
+  "BasePath": "_content/ClashFlow.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

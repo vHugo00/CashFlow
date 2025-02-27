@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/ClashFlow.Api.csproj": {}
+  },
+  "projects": {
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj",
+        "projectName": "CashFlow.Application",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj"
+              },
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj"
+              },
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj",
+        "projectName": "CashFlow.Communication",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "projectName": "CashFlow.Domain",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "projectName": "CashFlow.Infrastructure",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj",
+        "projectName": "CashFlowException",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/ClashFlow.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/ClashFlow.Api.csproj",
+        "projectName": "ClashFlow.Api",
+        "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/ClashFlow.Api.csproj",
+        "packagesPath": "/home/vitor/.nuget/packages/",
+        "outputPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vitor/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Application/CashFlow.Application.csproj"
+              },
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Communication/CashFlow.Communication.csproj"
+              },
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj"
+              },
+              "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj": {
+                "projectPath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlowException/CashFlowException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
