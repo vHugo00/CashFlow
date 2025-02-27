@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "U2qt0Z1dQyc=",
+  "dgSpecHash": "50mB2auFXtU=",
   "success": true,
   "projectFilePath": "/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/CashFlow.Domain/CashFlow.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vitor/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/home/vitor/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

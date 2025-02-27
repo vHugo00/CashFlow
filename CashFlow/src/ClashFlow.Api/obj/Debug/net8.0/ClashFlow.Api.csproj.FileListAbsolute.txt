@@ -34,3 +34,14 @@
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/Debug/net8.0/ClashFlow.Api.pdb
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/Debug/net8.0/ClashFlow.Api.genruntimeconfig.cache
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/Debug/net8.0/ref/ClashFlow.Api.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Application.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Communication.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Domain.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Infrastructure.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlowException.dll
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Application.pdb
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Communication.pdb
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Infrastructure.pdb
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlowException.pdb
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Domain.pdb
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/Debug/net8.0/ClashFlow.Api.sourcelink.json
