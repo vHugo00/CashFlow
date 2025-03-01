@@ -45,3 +45,4 @@
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlowException.pdb
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/CashFlow.Domain.pdb
 /home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/obj/Debug/net8.0/ClashFlow.Api.sourcelink.json
+/home/vitor/Documentos/Workspace/CashFlow/CashFlow/src/ClashFlow.Api/bin/Debug/net8.0/FluentValidation.dll

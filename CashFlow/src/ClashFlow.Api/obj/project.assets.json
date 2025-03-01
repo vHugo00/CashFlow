@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "FluentValidation/12.0.0-preview1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.OpenApi/8.0.12": {
         "type": "package",
         "dependencies": {
@@ -114,7 +127,8 @@
         "dependencies": {
           "CashFlow.Communication": "1.0.0",
           "CashFlow.Domain": "1.0.0",
-          "CashFlowException": "1.0.0"
+          "CashFlowException": "1.0.0",
+          "FluentValidation": "12.0.0-preview1"
         },
         "compile": {
           "bin/placeholder/CashFlow.Application.dll": {}
@@ -169,6 +183,21 @@
     }
   },
   "libraries": {
+    "FluentValidation/12.0.0-preview1": {
+      "sha512": "sFp+S7r98V0RQd6Ws9ecFTneWGGMK69XA4Wq+2ZxuNzoRTcs6AbZFyb+pfCwOUx4zgJiKf6BjcFSQrrAaxn+Dw==",
+      "type": "package",
+      "path": "fluentvalidation/12.0.0-preview1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.12.0.0-preview1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml"
+      ]
+    },
     "Microsoft.AspNetCore.OpenApi/8.0.12": {
       "sha512": "ethhl6H45KrU7d8FRFBKAaJpMKdy2nJwG7j3XSt1b4o+H6saDr+2NQpEMIB1QTHxsrB2Un4C+j01PT5b75kOYQ==",
       "type": "package",
